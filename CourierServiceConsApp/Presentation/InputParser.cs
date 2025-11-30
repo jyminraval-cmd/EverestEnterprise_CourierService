@@ -13,22 +13,31 @@ namespace CourierServiceConsApp.Presentation
             int numberOfPackages = ReadPositiveInt();
 
 
-            // -------------------
             // Read Package Inputs
-            // -------------------
-
             var packages = new List<Package>();
 
             for (int i = 1; i <= numberOfPackages; i++)
             {
                 Console.WriteLine($"\nEnter package {i} (Format: pkg_id weight distance offer_code): ");
+                Console.WriteLine("Type 'done' to stop early or 'exit' to cancel:");
 
                 string? line = Console.ReadLine();
 
                 while (string.IsNullOrWhiteSpace(line))
                 {
                     Console.WriteLine("Input cannot be empty. Try again:");
-                    line = Console.ReadLine();
+                    i--;
+                    continue;
+                    //line = Console.ReadLine();
+                }
+
+                if (line.Trim().ToLower() == "exit")
+                    throw new Exception("User cancelled the calculation.");
+
+                if (line.Trim().ToLower() == "done")
+                {
+                    Console.WriteLine("Stopping early. Remaining packages will not be added.");
+                    break;
                 }
 
                 var parts = line.Split(' ', StringSplitOptions.RemoveEmptyEntries);
@@ -40,7 +49,6 @@ namespace CourierServiceConsApp.Presentation
                     continue;
                 }
 
-                // validation: weight & distance > 0
                 if (!double.TryParse(parts[1], out double weight) || weight <= 0)
                 {
                     Console.WriteLine("Weight must be a positive number.");
@@ -63,10 +71,10 @@ namespace CourierServiceConsApp.Presentation
                 ));
             }
 
+            Console.WriteLine($"\nTotal packages entered: {packages.Count}");
 
-            // -------------------
+            
             // Read Vehicle Inputs
-            // -------------------
             Console.Write("\nEnter number of vehicles: ");
             int numberOfVehicles = ReadPositiveInt();
 
@@ -88,7 +96,7 @@ namespace CourierServiceConsApp.Presentation
             };
         }
 
-        // Helper: Read valid positive int
+        // Read positive int
         private int ReadPositiveInt()
         {
             string? input = Console.ReadLine();
@@ -103,7 +111,7 @@ namespace CourierServiceConsApp.Presentation
             return number;
         }
 
-        // Helper: Read valid positive double
+        //Read positive double
         private double ReadPositiveDouble()
         {
             string? input = Console.ReadLine();
