@@ -1,0 +1,14 @@
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\bin\Debug\net8.0\CourierServiceConsApp.exe
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\bin\Debug\net8.0\CourierServiceConsApp.deps.json
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\bin\Debug\net8.0\CourierServiceConsApp.runtimeconfig.json
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\bin\Debug\net8.0\CourierServiceConsApp.dll
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\bin\Debug\net8.0\CourierServiceConsApp.pdb
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.AssemblyInfoInputs.cache
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.AssemblyInfo.cs
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.csproj.CoreCompileInputs.cache
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.dll
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\refint\CourierServiceConsApp.dll
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.pdb
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.genruntimeconfig.cache
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\ref\CourierServiceConsApp.dll
