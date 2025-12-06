@@ -19,3 +19,25 @@ C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceCons
 C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\bin\Debug\net8.0\xunit.assert.dll
 C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\bin\Debug\net8.0\xunit.core.dll
 C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\CourierS.AB457D23.Up2Date
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\bin\Debug\net8.0\CourierServiceConsApp.exe
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\bin\Debug\net8.0\CourierServiceConsApp.deps.json
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\bin\Debug\net8.0\CourierServiceConsApp.runtimeconfig.json
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\bin\Debug\net8.0\CourierServiceConsApp.dll
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\bin\Debug\net8.0\CourierServiceConsApp.pdb
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\bin\Debug\net8.0\xunit.assert.dll
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\bin\Debug\net8.0\xunit.core.dll
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.csproj.AssemblyReference.cache
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.AssemblyInfoInputs.cache
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.AssemblyInfo.cs
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.csproj.CoreCompileInputs.cache
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.sourcelink.json
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\obj\Debug\net8.0\CourierS.AB457D23.Up2Date
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.dll
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\obj\Debug\net8.0\refint\CourierServiceConsApp.dll
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.pdb
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.genruntimeconfig.cache
+C:\Repo Clone 2\CourierServiceApp\CourierServiceConsApp\obj\Debug\net8.0\ref\CourierServiceConsApp.dll

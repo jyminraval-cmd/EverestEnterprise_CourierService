@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MQqtDi8uurg=",
+  "dgSpecHash": "EJ6O3BxtFaE=",
   "success": true,
-  "projectFilePath": "C:\\Users\\contisadmin\\Desktop\\APITaskManagement\\CourierService\\CourierServiceConsApp\\CourierServiceConsApp.csproj",
+  "projectFilePath": "C:\\Repo Clone 2\\CourierServiceApp\\CourierServiceConsApp\\CourierServiceConsApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\contisadmin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\10.0.0\\microsoft.extensions.dependencyinjection.10.0.0.nupkg.sha512",
     "C:\\Users\\contisadmin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\10.0.0\\microsoft.extensions.dependencyinjection.abstractions.10.0.0.nupkg.sha512",

@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CourierServiceConsApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e337e1610f20919c6a53b335012bf977d85b8448")]
 [assembly: System.Reflection.AssemblyProductAttribute("CourierServiceConsApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CourierServiceConsApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

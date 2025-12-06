@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\contisadmin\\Desktop\\APITaskManagement\\CourierService\\CourierServiceConsApp\\CourierServiceConsApp.csproj": {}
+    "C:\\Repo Clone 2\\CourierServiceApp\\CourierServiceConsApp\\CourierServiceConsApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\contisadmin\\Desktop\\APITaskManagement\\CourierService\\CourierServiceConsApp\\CourierServiceConsApp.csproj": {
+    "C:\\Repo Clone 2\\CourierServiceApp\\CourierServiceConsApp\\CourierServiceConsApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\contisadmin\\Desktop\\APITaskManagement\\CourierService\\CourierServiceConsApp\\CourierServiceConsApp.csproj",
+        "projectUniqueName": "C:\\Repo Clone 2\\CourierServiceApp\\CourierServiceConsApp\\CourierServiceConsApp.csproj",
         "projectName": "CourierServiceConsApp",
-        "projectPath": "C:\\Users\\contisadmin\\Desktop\\APITaskManagement\\CourierService\\CourierServiceConsApp\\CourierServiceConsApp.csproj",
+        "projectPath": "C:\\Repo Clone 2\\CourierServiceApp\\CourierServiceConsApp\\CourierServiceConsApp.csproj",
         "packagesPath": "C:\\Users\\contisadmin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\contisadmin\\Desktop\\APITaskManagement\\CourierService\\CourierServiceConsApp\\obj\\",
+        "outputPath": "C:\\Repo Clone 2\\CourierServiceApp\\CourierServiceConsApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\DevExpress 23.2\\Components\\Offline Packages",
