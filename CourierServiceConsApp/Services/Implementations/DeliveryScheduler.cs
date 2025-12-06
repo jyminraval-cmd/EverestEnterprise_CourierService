@@ -47,5 +47,10 @@ namespace CourierServiceConsApp.Services.Implementations
                 }
             }
         }
+
+        public List<List<Package>> CreateShipmentsForTesting(List<Package> packages, double maxWeight)
+        {
+            return _shipmentSelector.CreateShipments(packages, maxWeight);
+        }
     }
 }

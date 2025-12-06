@@ -5,5 +5,6 @@ namespace CourierServiceConsApp.Services.Interface
     public interface IShipmentSelector
     {
         List<Package> PickBestShipment(List<Package> remaining, double capacity);
+        List<List<Package>> CreateShipments(List<Package> packages, double capacity);
     }
 }

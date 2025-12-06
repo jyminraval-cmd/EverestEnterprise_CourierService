@@ -80,5 +80,29 @@ namespace CourierServiceConsApp.Services.Implementations
 
             return result;
         }
+
+        public List<List<Package>> CreateShipments(List<Package> packages, double capacity)
+        {
+            var remaining = new List<Package>(packages);
+            var shipments = new List<List<Package>>();
+
+            while (remaining.Count > 0)
+            {
+                var shipment = PickBestShipment(remaining, capacity);
+
+                if (shipment.Count == 0)
+                    break;
+
+                shipments.Add(shipment);
+
+                // Remove selected packages from remaining list
+                foreach (var pkg in shipment)
+                {
+                    remaining.Remove(pkg);
+                }
+            }
+
+            return shipments;
+        }
     }
 }

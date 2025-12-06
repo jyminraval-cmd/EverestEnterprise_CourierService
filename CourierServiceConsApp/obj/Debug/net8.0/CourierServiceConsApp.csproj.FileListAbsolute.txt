@@ -12,3 +12,10 @@ C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceCons
 C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.pdb
 C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.genruntimeconfig.cache
 C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\ref\CourierServiceConsApp.dll
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\CourierServiceConsApp.csproj.AssemblyReference.cache
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\bin\Debug\net8.0\xunit.abstractions.dll
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\bin\Debug\net8.0\xunit.assert.dll
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\bin\Debug\net8.0\xunit.core.dll
+C:\Users\contisadmin\Desktop\APITaskManagement\CourierService\CourierServiceConsApp\obj\Debug\net8.0\CourierS.AB457D23.Up2Date

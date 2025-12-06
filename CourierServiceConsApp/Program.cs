@@ -1,17 +1,23 @@
-﻿
-
+﻿using CourierServiceConsApp.Infrastructure;
 using CourierServiceConsApp.Presentation;
+using CourierServiceConsApp.Services.Implementations;
+using CourierServiceConsApp.Services.Interface;
+using Microsoft.Extensions.DependencyInjection;
 
-internal class Program
-{
-    private static void Main(string[] args)
-    {
-        ConsoleApp app = new ConsoleApp();
-        app.Run();
-    }
-}
+var services = new ServiceCollection();
 
+// DI Setup
+services.AddSingleton<IOfferService, OfferService>();
+services.AddSingleton<OfferRepository>();
+services.AddSingleton<ICostCalculator, CostCalculator>();
+services.AddSingleton<IDeliveryScheduler, DeliveryScheduler>();
+services.AddSingleton<IShipmentSelector, ShipmentSelector>();
 
+services.AddSingleton<InputParser>();
+services.AddSingleton<Menu>();
+services.AddSingleton<ConsoleApp>();
+services.AddSingleton<OutputFormatter>();
 
-//// See https://aka.ms/new-console-template for more information
-//Console.WriteLine("Hello, World!");
+var provider = services.BuildServiceProvider();
+var app = provider.GetRequiredService<ConsoleApp>();
+app.Run();

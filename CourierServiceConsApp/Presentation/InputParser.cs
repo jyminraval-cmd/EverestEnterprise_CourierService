@@ -49,26 +49,15 @@ namespace CourierServiceConsApp.Presentation
                     continue;
                 }
 
-                if (!double.TryParse(parts[1], out double weight) || weight <= 0)
+                if (!double.TryParse(parts[1], out double weight) || weight <= 0 ||
+                        !double.TryParse(parts[2], out double dist) || dist <= 0)
                 {
-                    Console.WriteLine("Weight must be a positive number.");
+                    Console.WriteLine("Weight and distance must be positive numbers.");
                     i--;
                     continue;
                 }
 
-                if (!double.TryParse(parts[2], out double distance) || distance <= 0)
-                {
-                    Console.WriteLine("Distance must be a positive number.");
-                    i--;
-                    continue;
-                }
-
-                packages.Add(new Package(
-                    parts[0],
-                    weight,
-                    distance,
-                    parts[3]
-                ));
+                packages.Add(new Package(parts[0], weight, dist, parts[3]));
             }
 
             Console.WriteLine($"\nTotal packages entered: {packages.Count}");
